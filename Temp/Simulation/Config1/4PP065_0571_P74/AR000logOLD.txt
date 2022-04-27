@@ -1,0 +1,30 @@
+Wed Mar 02 18:04:51 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Wed Mar 02 18:04:51 2022
+No ARsim registration found!
+
+Wed Mar 02 18:04:51 2022
+InstanceName: 01d82e46de1a8ce0
+
+Wed Mar 02 18:04:51 2022
+WorkingDirectory: C:\Users\admin\Documents\kvbo 03-21\Seliverstov\prak1\Temp\Simulation\Config1\4PP065_0571_P74\
+
+Wed Mar 02 18:04:51 2022
+COMMAND_COLDSTART
+
+Wed Mar 02 18:04:53 2022
+Version: D4.52
+
+Wed Mar 02 18:04:55 2022
+COMMAND_TERMINATE
+
+Wed Mar 02 18:04:55 2022
+COMMAND_COLDSTART
+
+Wed Mar 02 18:04:57 2022
+Version: D4.52
+
+Wed Mar 02 18:05:42 2022
+COMMAND_TERMINATE
+

@@ -1,0 +1,13 @@
+VAR
+	i : INT;
+	Button_1 : BOOL;
+	Button_2 : BOOL;
+	Button_3 : BOOL;
+	Button_4 : BOOL;
+	press_1 : BOOL;
+	press_2 : BOOL;
+	press_3 : BOOL;
+	press_4 : BOOL;
+	EVRID : DRIVE;
+	speed : BOOL;
+END_VAR
